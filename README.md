@@ -5,6 +5,11 @@ I estimate my knowledge to be advanced already, even if I keep learning new thin
 
 My native language is German, in English I am unfortunately quite bad, so I often have to rely on a translator.
 Did you know? Deepl.com is a great translator!
+
+Programming was and still is just a hobby for me. Because I currently have to do other things and learn, I can not always put so much time into my projects :( but I always do my best to be active, even if the project must rest 1-2 months.
+
+Programming was and still is just a hobby for me. Because I currently have to do other things and learn, as for my job, I can not always put so much time in my projects :( 
+But I always do my best to be active, even if the project must rest 1-2 months.
 </p>
 
 -------
