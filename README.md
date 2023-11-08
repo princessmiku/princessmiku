@@ -11,7 +11,7 @@ Programming was and still is just a hobby for me. Because I currently have to do
 
 -------
 
-- 🔭 I’m currently working on [MariaDB-SQLBuilder](https://github.com/princessmiku/MariaDB-SQLBuilder) and [SimpleSave](https://github.com/princessmiku/simplesave)
+- 🔭 I’m currently working on a RSSDesktopClient
 
 - 🌱 I’m currently learning **Game and website development**
 
