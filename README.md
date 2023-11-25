@@ -11,9 +11,9 @@ Programming was and still is just a hobby for me. Because I currently have to do
 
 -------
 
-- 🔭 I’m currently working on a RSSDesktopClient
+- 🔭 I’m currently working on a System that should manage my Anime stuff
 
-- 🌱 I’m currently learning **Game and website development**
+- 🌱 I’m currently learning **Website development**
 
 - 👨‍💻 All of my projects are here on GitHub [https://github.com/princessmiku?tab=repositories](https://github.com/princessmiku?tab=repositories)
 
@@ -24,8 +24,6 @@ Programming was and still is just a hobby for me. Because I currently have to do
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
   
 <h3 align="left">Database:</h3>
 <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
