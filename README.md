@@ -1,38 +1,61 @@
-<h1 align="center">Hi 👋, I'm Miku</h1>
-<h3 align="center">A python developer from Germany</h3>
-<p>I have been programming for a while, I started around May 2017. First with Java and shortly after with Python. Since then Python is my favorite language, which I use for almost all my projects.
-I estimate my knowledge to be advanced already, even if I keep learning new things.
+<h1 align="center">👋 Hi, I'm Miku!</h1>
+<p align="center">Welcome to my GitHub profile! I'm a hobbyist developer based in Germany, programming since <strong>May 2017</strong>. Programming is my passion, and it's something I enjoy as a creative escape.</p>
 
-My native language is German, in English I am unfortunately quite bad, so I often have to rely on a translator.
-Did you know? Deepl.com is a great translator!
+---
 
-Programming was and still is just a hobby for me. Because I currently have to do other things and learn, I can not always put so much time into my projects :( but I always do my best to be active, even if the project must rest 1-2 months.
-</p>
+<h2 align="center">🌟 About Me</h2>
+<ul>
+  <li>❤️ My favorite programming language is <strong>Python</strong>.</li>
+  <li>🌐 Currently diving into <strong>web development</strong> using <strong>Next.js</strong>.</li>
+  <li>🌱 I create projects for my personal needs, but they’re available for anyone who finds them useful.</li>
+</ul>
+<p><em>Note: Apologies if my English isn't perfect. My native language is German, and I use tools like DeepL or GPT for translation.</em></p>
 
--------
+---
 
-- 🔭 I’m currently working on a System that should manage my Anime stuff
+<h2 align="center">📚 Currently Learning</h2>
+<p>I'm currently focused on learning <strong>Next.js</strong> and expanding my skills in web development frameworks and current standards.</p>
 
-- 🌱 I’m currently learning **Website development**
+---
 
-- 👨‍💻 All of my projects are here on GitHub [https://github.com/princessmiku?tab=repositories](https://github.com/princessmiku?tab=repositories)
+<h2 align="center">🛠️ Languages & Tools I Work With</h2>
 
-- ⚡ Fun fact **I love anime, if you should not notice :3**
+<h3 align="center">Programming & Markup Languages</h3>
+<div align="center">
+  <img src="https://www.midevelopment.de/assets/svg/Python.svg" alt="Python" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/Java.svg" alt="Java" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/JavaScript.svg" alt="JavaScript" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/TypeScript.svg" alt="TypeScript" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/Lua.svg" alt="Lua" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/HTML5.svg" alt="HTML5" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/CSS3.svg" alt="CSS3" width="50">
+</div>
 
-<h3 align="left">Programming languages:</h3>
+<h3 align="center">Databases</h3>
+<div align="center">
+  <img src="https://www.midevelopment.de/assets/svg/MariaDB.svg" alt="MariaDB" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/PostgreSQL.svg" alt="PostgreSQL" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/SQLite.svg" alt="SQLite" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/Redis.svg" alt="Redis" width="50">
+</div>
 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  
-<h3 align="left">Database:</h3>
-<a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
+<h3 align="center">Frameworks & Libraries</h3>
+<div align="center">
+  <img src="https://www.midevelopment.de/assets/svg/Flask.svg" alt="Flask" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/FastAPI.svg" alt="FastAPI" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/SQLAlchemy.svg" alt="SQLAlchemy" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/NextJS.svg" alt="Next.js" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/React.svg" alt="React" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/NextUI.svg" alt="NextUI" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/TailwindCSS.svg" alt="Tailwind CSS" width="50">
+</div>
 
-<h3 align="left">Web development:</h3>
-<p align="left"> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-</a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/3.0.x/_static/shortcut-icon.png" alt="flask" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-</p>
+<h3 align="center">Other Tools</h3>
+<div align="center">
+  <img src="https://www.midevelopment.de/assets/svg/RabbitMQ.svg" alt="RabbitMQ" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/UnrealEngine.svg" alt="Unreal Engine" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/GodotEngine.svg" alt="Godot Engine" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/JetBrains.svg" alt="JetBrains Tools" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/Git.svg" alt="Git" width="50">
+  <img src="https://www.midevelopment.de/assets/svg/GitHub.svg" alt="GitHub" width="50">
+</div>
