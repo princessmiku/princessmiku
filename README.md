@@ -52,9 +52,6 @@
 
 <h3 align="center">Other Tools</h3>
 <div align="center">
-  <img src="https://www.midevelopment.de/assets/svg/RabbitMQ.svg" alt="RabbitMQ" width="50">
-  <img src="https://www.midevelopment.de/assets/svg/UnrealEngine.svg" alt="Unreal Engine" width="50">
-  <img src="https://www.midevelopment.de/assets/svg/GodotEngine.svg" alt="Godot Engine" width="50">
   <img src="https://www.midevelopment.de/assets/svg/JetBrains.svg" alt="JetBrains Tools" width="50">
   <img src="https://www.midevelopment.de/assets/svg/Git.svg" alt="Git" width="50">
   <img src="https://www.midevelopment.de/assets/svg/GitHub.svg" alt="GitHub" width="50">
