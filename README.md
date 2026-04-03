@@ -10,8 +10,3 @@
   <li>🌱 I create projects for my personal needs, but they’re available for anyone who finds them useful.</li>
 </ul>
 <p><em>Note: Apologies if my English isn't perfect. My native language is German, and I use tools like DeepL or GPT for translation.</em></p>
-
----
-
-<h2 align="center">📚 Currently Learning</h2>
-<p>I'm currently focused on learning <strong>Next.js</strong> and expanding my skills in web development frameworks and current standards.</p>
